@@ -1,0 +1,12 @@
+host1 200 450
+host2 404 0
+host1 200 300
+host3 200 125
+clientA 301 64
+clientB 500 0
+clientA 200 1024
+host2 200 512
+host4 403 0
+clientC 200 2048
+clientC 404 0
+host1 200 256
